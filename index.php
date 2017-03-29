@@ -7,6 +7,9 @@
     fclose($handle); 
 
 ?>
+<html>
+    <h1>test</h1>
+</html>
 <?php
 $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']);
 $img_number = imagecreate(400,95);

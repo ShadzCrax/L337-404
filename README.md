@@ -4,8 +4,9 @@ The L337-404.com website
 http://www.L337-404.com/ 
 
 
-Note: If site is down that probably means it got banned/blocked/reported on the server and 
-I am most likely working on getting it back up and online 
+Note: The site should be online unless the most likely possibilities occur in which the server or domain has been 
+Banned/Blocked/Reported by the butthurt Pussy Wimp Noobs (also known as the PWN'd people) and I'm most likely working on
+getting the site back online.
 
 # WTF Is This Site?
 L337-404 is a site that I still cant decide what to do with and so 

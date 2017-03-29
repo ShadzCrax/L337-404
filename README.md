@@ -9,8 +9,8 @@ Banned/Blocked/Reported by the butthurt Pussy Wimp Noobs (also known as the PWN'
 getting the site back online.
 
 # WTF Is This Site?
-L337-404 is a site that I still cant decide what to do with and so 
-I am making it into mostly everything I could possibly want (I will also take suggestions/ideas.
+L337-404 is a website that I still cant decide what to do with and so 
+I am making it into mostly everything I could possibly want (I will also take suggestions/ideas).
 Currently I'm making a set of online tools that can do whatever I want with it from a internet browser, 
 I'm also going to add a fourm and possibly blog, Some cool graphics like a cool hacker website, and probably 
 much more in the future. 
@@ -36,7 +36,7 @@ https://www.facebook.com/D1g1N3rd
 
 # VVV People and Stuff VVV
 
-ShadzCrax|ShadowCrax|DigiNerd - Zoa Hickenlooper (Owner)  
+ShadzCrax/ShadowCrax/DigiNerd - Zoa Hickenlooper (Owner)  
 
 (Currently not really anybody but if I add an Idea or something I'll put ur name/handle here) 
 

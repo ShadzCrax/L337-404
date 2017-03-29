@@ -1,5 +1,5 @@
 # L337-404
-The L337-404.com website
+The official L337-404.com website source
 
 http://www.L337-404.com/ 
 

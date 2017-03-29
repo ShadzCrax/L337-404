@@ -12,7 +12,7 @@ Currently I'm making a set of online tools that can do whatever I want with it f
 I'm also going to add a fourm and possibly blog, Some cool graphics like a cool hacker website, and probably 
 much more in the future. 
 
-# Contact
+# Contact Info
 Currently my contact information is through my Domain SMTP email address 
 which might change if the domain reported for abuse or I change it (I'm too lazy to change it)
 The
@@ -23,11 +23,12 @@ LINKS:
 https://6um.digitalgangster.com/users/d1g1n3rd/
 https://twitter.com/DigiNerd_
 https://www.facebook.com/D1g1N3rd
+
 # VVV People and Stuff VVV
 ShadzCrax|ShadowCrax|DigiNerd - Zoa Hickenlooper (Owner)
 (Currently not really anybody but if I add an Idea or something I'll put ur name/handle here) 
 
-# ~Special Thanks and Words of SPAM~
+# Special Thanks and Words of SPAM
 Digital Gangster For Life
 STC Is The Greatest
 Nerd Life
@@ -37,4 +38,4 @@ thank you Tor and I2P
 Encrypt all the things
 Hack The Planet
 
-# To all my Spammers/Scammers/Hackers/Crackers/Nerds/Geeks/DGs/Homies/Kiddies I love you all, Spam God Bless~
+To all my Spammers/Scammers/Hackers/Crackers/Nerds/Geeks/DGs/Homies/Kiddies I love you all, Spam God Bless
